@@ -234,3 +234,33 @@ goal:
 
 </div>
 
+
+## 🌟 Featured Projects
+
+### 🎓 Project 01 — College Helpdesk Management System
+
+A college helpdesk management system designed to help students access college-related information and support more conveniently.
+
+**Key Features:**
+- College information and student support
+- Helpdesk queries and assistance
+- Easy access to college-related information
+
+**Tech Stack:** `Add your actual technologies here`
+
+---
+
+### 🌱 Project 02 — Agricultural Waste Management System
+
+An agricultural waste management system focused on promoting the effective utilization and responsible management of agricultural waste.
+
+**Key Features:**
+- Agricultural waste information and management
+- Explore waste reuse and recycling opportunities
+- Promote sustainable agricultural practices
+
+**Tech Stack:** `Add your actual technologies here`
+
+---
+
+
